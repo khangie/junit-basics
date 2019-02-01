@@ -1,4 +1,4 @@
-package com.in28minutes.junit;
+package com.junit;
 
 import static org.junit.Assert.assertEquals;
 
@@ -7,6 +7,8 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.jupiter.api.Test;
+
+import com.junit.MyMath;
 
 class MyMathTest {
 

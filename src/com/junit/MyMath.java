@@ -1,4 +1,4 @@
-package com.in28minutes.junit;
+package com.junit;
 
 public class MyMath {
 	
